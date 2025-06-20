@@ -4,7 +4,7 @@ This project simulates and detects point mutations (SNPs) in the katG gene from 
 
 ## 🚀 What It Does
 - Loads an original katG gene sequence (FASTA)
-- Simulates a mutation (e.g. G → A at position 500)
+- Simulates a mutation (e.g. T → A at position 500)
 - Compares wild-type and mutant sequences
 - Outputs detected mutations in a `.txt` report
 
