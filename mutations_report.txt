@@ -1,0 +1,2 @@
+Position	Original	Mutant
+500	T	A
